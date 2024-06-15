@@ -10,7 +10,6 @@ public class Multithread {
             System.out.println(i);
             threadDemo.start();
             System.out.println(i);
-            //str.
         }
     }
 }
